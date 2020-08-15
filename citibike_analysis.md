@@ -1,7 +1,7 @@
 # NYC Citi Bike Analysis to help build module for Des Moines
 This is a summary of the analytic work that I did with the NYC Citi Bike data. According to https://www.bikeleague.org/, from 2000 to 2016 bicyle commuting has seen 51% growth nationwide.
 ![bicycle](images/simple-bicycle.jpg)
-## Question: How population of city and people's age and number of bike riders are connected
+## Question: How population of city and population age and number of bike riders are connected
 ### Age and Biking
 According to US Census Bureaue younger worker in the cities are more likely to to bike to work. NYC data shows that more people are biking from age 18-65.
 ![age](images/age.png)
@@ -23,10 +23,10 @@ NYC data shows that if bike stop (pickup/return) is at popular location then peo
 
 ### Peak Hours
 NYC data shows that around 5-7pm are peak bike riding hours. If more bikes combine with popular location during this peak hours will help people to prefer bike to save commute time.
-[peak_hours](images/peak_hours.png)
+![peak_hours](images/peak_hours.png)
 
 We Also can use peak hour information for bike repair time. NYC Data shows that bikes used more required frequent repair.
-[repair](images/bike_utilization.png)
+![repair](images/bike_utilization.png)
 
 ## Story Links
 * NYC Tableau Story
