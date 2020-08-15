@@ -1,6 +1,6 @@
 # NYC Citi Bike Analysis to help build module for Des Moines
 This is a summary of the analytic work that I did with the NYC Citi Bike data. According to https://www.bikeleague.org/, from 2000 to 2016 bicyle commuting has seen 51% growth nationwide.
-![bicycle](images/simple-bicycle.jpg)
+![bicycle](images/simple-bicycle_t.jpg)
 ## Question: How population of city and population age and number of bike riders are connected
 ### Age and Biking
 According to US Census Bureaue younger worker in the cities are more likely to to bike to work. NYC data shows that more people are biking from age 18-65.
@@ -9,7 +9,7 @@ According to US Census Bureaue younger worker in the cities are more likely to t
 Even NYC population is much more than Des Moines, but number of people per sq miles are almost same according to censusreporter.org.
 ![pop_per_sq_mile](images/pop_per_sq_mile.png)
 
-Data shows that youger populations average tripduation is more than older population.
+Data shows that younger population has average tripduation more than older population.
 ![average](images/avg_tripduation.png)
 
 Des Moines has more younger population as compared with NYC. This information is taken from census.gov
