@@ -6,7 +6,7 @@ This is a summary of the analytic work that I did with the NYC Citi Bike data. A
 ### Age and Biking
 According to US Census Bureaue younger worker in the cities are more likely to to bike to work. NYC data shows that more people are biking from age 18-65.
 
-![age](images/age.png)
+![age](images/age_c.png)
 
 Even NYC population is much more than Des Moines, but number of people per sq miles are almost same according to censusreporter.org.
 
